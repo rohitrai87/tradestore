@@ -1,2 +1,0 @@
-# tradestore
-Trade Store Repo
